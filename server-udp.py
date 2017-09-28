@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # @Author: 
 #          Rubén Couoh
-#					 Reyna Ay  
-#					 Luis Rodriguez
+#          Reyna Ay  
+#          Luis Rodriguez
 
 import socket
 import random
